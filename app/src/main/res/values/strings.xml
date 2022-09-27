@@ -1,0 +1,126 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" tools:ignore="ExtraTranslation">Phone Setting</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="ulan_nurymov_gmail_com">수원대학교 정보보호학과 2019자바 4조</string>
+    <string name="action_settings">설정하기</string>
+    <string name="add_gps">실내 추가하기</string>
+
+    <!-- Fragments strings -->
+    <string name="monday">월요일</string>
+    <string name="tuesday">화요일</string>
+    <string name="wednesday">수요일</string>
+    <string name="thursday">목요일</string>
+    <string name="friday">금요일</string>
+    <string name="saturday">토요일</string>
+    <string name="sunday">일요일</string>
+    <string name="select_snackbar">Please, select one item.</string>
+    <string name="selected">개 선택됨</string>
+
+    <!-- Main Activity strings -->
+    <string name="timetable">Phone Setting</string>
+    <string name="seven_days_of_the_week">주말 일정 사용여부</string>
+    <string name="subject">일정</string>
+    <string name="soundmode">소리모드</string>
+    <string name="field_error">칸을 채워주세요!</string>
+    <string name="time_error">시간을 정해주세요!</string>
+    <string name="mode_error">소리모드를 정해주세요!</string>
+    <string name="week">주</string>
+    <string name="delete">삭제</string>
+    <string name="edit">수정</string>
+    <string name="school_website">학교 웹사이트</string>
+    <string name="school_website_snackbar">수원대학교 홈페이지로 이동합니다.\n설정에서 변경할 수 있습니다.</string>
+
+    <string name="add_subject">일정 추가하기</string>
+    <string name="edit_subject">일정 수정하기</string>
+    <string name="teacher">교수님</string>
+    <string name="room">강의실</string>
+    <string name="time">시간</string>
+    <string name="save">저장</string>
+    <string name="vibration">진동</string>
+    <string name="silence">무음</string>
+    <string name="sleep">수면</string>
+    <string name="cancel">취소</string>
+    <string name="nightmode_dialog">수면 모드 :</string>
+    <string name="mode_dialog">모드 설정 : </string>
+    <string name="time_to_dialog">종료 시간:</string>
+    <string name="time_from_dialog">시작 시간:</string>
+    <string name="subject_dialog">일정:</string>
+    <string name="teacher_dialog">교수님:</string>
+    <string name="room_dialog">강의실:</string>
+    <string name="select_time">시간 선택하기</string>
+    <string name="select_color">색깔 선택하기</string>
+    <string name="choose_time">시간 선택하기</string>
+    <string name="choose_date">날짜 선택하기</string>
+    <string name="choose_color">색깔 선택하기</string>
+
+    <!-- Homeworks Activity strings -->
+    <string name="title_activity_homeworks">HomeworksActivity</string>
+    <string name="homeworks">할 일</string>
+    <string name="select_date">날짜 선택하기</string>
+    <string name="deadline_dialog">마감일:</string>
+    <string name="deadline">마감일</string>
+    <string name="description_dialog">설명:</string>
+    <string name="desctiption">설명</string>
+    <string name="date_error">날짜를 정해주세요!</string>
+    <string name="edit_homework">할 일 수정하기</string>
+    <string name="add_homework">할 일 추가하기</string>
+    <string name="deadline_snackbar">"마감일을 선택해 주세요!</string>
+    <string name="date">날짜</string>
+
+    <!-- Notes Activity strings -->
+    <string name="notes">메모</string>
+    <string name="title_dialog">제목:</string>
+    <string name="add_note">메모 추가하기</string>
+    <string name="edit_note">메모 수정하기</string>
+    <string name="title_error">제목을 적어주세요!</string>
+    <string name="title">제목</string>
+    <string name="saved">저장</string>
+
+    <!-- Teachers Activity strings -->
+    <string name="teachers">연락처</string>
+    <string name="add_teacher">연락처 추가하기</string>
+    <string name="edit_teacher">연락처 수정하기</string>
+    <string name="name_dialog">이름:</string>
+    <string name="post_dialog">주소:</string>
+    <string name="phonenumber_dialog">전화번호:</string>
+    <string name="email_dialog">이메일:</string>
+    <string name="name">성함</string>
+    <string name="phone_number">휴대전화</string>
+    <string name="post">우편번호</string>
+    <string name="email">이메일</string>
+
+    <!-- Exams Activity strings -->
+    <string name="exams">시험일정</string>
+    <string name="add_exam">시험일정 추가하기</string>
+    <string name="date_dialog">날짜:</string>
+    <string name="time_dialog">시간:</string>
+
+    <!-- Settings Activity strings -->
+    <string name="sevendays_setting">일정표에 주말을 추가합니다.\n어플을 다시 시작해야 적용됩니다.</string>
+    <string name="school_website_setting">웹사이트 변경하기</string>
+    <string name="school_website_setting_summary">학교 웹사이트의 URL을 변경하세요</string>
+
+    <!-- Notification -->
+    <string name="notification_title">Today\'s lessons</string>
+    <string name="do_not_have_lessons">empty day</string>
+
+    <string name="title_activity_maps">실내추가하기</string>
+    <string name="title_activity_main">실내추가하기</string>
+    <string name="map_menu_select">추가하기</string>
+
+    <!-- Strings for ConfirmDialogActivity-->
+
+    <string name="confirm_dialog_activity_title">실내추가하기</string>
+    <string name="confirm_dialog_activity_name">장소명</string>
+    <string name="confirm_dialog_activity_latitude">위도</string>
+    <string name="confirm_dialog_activity_longitude" >경도</string>
+    <string name="confirm_dialog_activity_radius">범위(0.0m ~ 2000.0m)</string>
+    <string name="confirm_dialog_activity_address">주소</string>
+    <string name="confirm_dialog_activity_button_confirm">확인</string>
+    <string name="confirm_dialog_activity_button_cancel">취소</string>
+    <string name="action_mode_remove">제거</string>
+
+</resources>
